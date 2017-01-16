@@ -1,6 +1,6 @@
 import { TodoAppPage } from './app.po';
 
-describe('todo-app App', function() {
+describe('anngular2app App', function() {
   let page: TodoAppPage;
 
   beforeEach(() => {
